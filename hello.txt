@@ -1,10 +1,8 @@
 <<<<<<< HEAD
 hello shuai665544
 hello shuai224444
-=======
 hello shuai666666
 hello shuai777777
->>>>>>> xin
 hello shuai
 hello shuai
 hello shuai
